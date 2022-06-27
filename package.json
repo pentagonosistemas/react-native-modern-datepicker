@@ -28,15 +28,10 @@
     "react-native-calendar",
     "react-native-calendars",
     "react-native-persian-calendar",
-    "react-native-jalaali-calendar",
     "time-picker",
     "react-native-time-picker",
     "month-picker",
     "react-native-month-picker",
-    "persian",
-    "jalaali",
-    "react-native-jalaali",
-    "persian-calendar",
     "customizable-datepicker"
   ],
   "dependencies": {
