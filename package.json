@@ -1,11 +1,8 @@
 {
     "name": "react-native-modern-datepicker",
-    "version": "1.0.1",
-    "description": "A customizable calendar, time & month picker for React Native (including Persian Jalaali calendar & locale)",
+    "version": "1.0.2",
+    "description": "Datetime Picker e Calendário customizável para React Native",
     "main": "src/index.js",
-    "scripts": {
-        "playground": "cd playground && react-native start"
-    },
     "files": [
         "src"
     ],
